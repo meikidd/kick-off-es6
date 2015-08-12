@@ -1,2 +1,5 @@
-# kick-off-es6
-Kick off ES6
+# Kick off ES6
+
+## ES6: The Future is Now
+
+- Overview
