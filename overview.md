@@ -414,5 +414,4 @@ require('./app.js')
 将 `run.js` 作为整个应用的入口，就可以在 `app.js` 和其他业务代码中编写 ES6 代码，当代码被 `require` 进来时，自动编译成 ES5 代码。 
 
 
-## ES6 in AMS
 
