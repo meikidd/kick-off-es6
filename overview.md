@@ -415,3 +415,5 @@ require('./app.js')
 
 
 
+## Learn a bit of ES6 daily
+[ES6 Katas](http://es6katas.org/)
