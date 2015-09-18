@@ -2,4 +2,4 @@
 
 ## ES6: The Future is Now
 
-- Overview
+- [Overview](https://github.com/meikidd/kick-off-es6/blob/master/overview.md)

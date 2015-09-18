@@ -18,13 +18,6 @@ ECMA-262 标准 第6版。计划以后每年发布一次标准，使用年份作
 
 日常讨论的 JavaScript 通常还包括 DOM(文档对象模型)、BOM(浏览器对象模型)，而 ES6 不包含这些。 
 
-### Where can I run ES6
-- node.js / io.js
-- browser
-- anywhere else 
-  - NW.js (node-webkit)
-  - Electron (atom-shell)
-
 ### ES6 现状
 - 主流框架全面转向 ES6 
 	- Angular 2
